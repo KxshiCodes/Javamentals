@@ -1,4 +1,4 @@
-package _04_Operators;
+package _03_Logic.operators;
 
 public class MathClass {
     public static void main(String[] args) {

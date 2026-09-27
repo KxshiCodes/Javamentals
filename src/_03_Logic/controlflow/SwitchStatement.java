@@ -1,4 +1,4 @@
-package _06_ControlFlow;
+package _03_Logic.controlflow;
 
 public class SwitchStatement {
     public static void main(String[] args) {

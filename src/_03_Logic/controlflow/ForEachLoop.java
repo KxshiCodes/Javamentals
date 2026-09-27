@@ -1,4 +1,4 @@
-package _06_ControlFlow;
+package _03_Logic.controlflow;
 
 public class ForEachLoop {
     public static void main(String[] args) {

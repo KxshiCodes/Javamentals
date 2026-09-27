@@ -1,4 +1,4 @@
-package _06_ControlFlow;
+package _03_Logic.operators;
 
 public class ComparisonOp {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package _03_Input;
+package _02_Variables;
 
 import java.util.Scanner;
 
