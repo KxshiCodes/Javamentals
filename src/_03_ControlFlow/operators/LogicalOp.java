@@ -1,4 +1,4 @@
-package _03_Logic.operators;
+package _03_ControlFlow.operators;
 
 public class LogicalOp {
     public static void main(String[] args) {
