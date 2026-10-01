@@ -7,11 +7,12 @@ These are my personal reference notes on core computer science concepts.
 
 ## What is Computer Science?
 
+
 ### Importance and Application of Computer Science?
 
-## Core concepts in Fundamentals of Computer Science I should know
 
-I don’t need to know everything on day one but I want to build a strong foundation so here are my reference notes.
+## Core concepts in Fundamentals of Computer Science I should know are:
+
 
 *(to add after research)*
 
