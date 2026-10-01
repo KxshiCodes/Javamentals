@@ -1,6 +1,6 @@
-# Harvard Computer Science Fundamentals (CS50 notes, Java lens)
+# Computer Science Fundamentals
 
-These are reference notes on core concepts of CS50. The goal is to understand what the computer is doing
+These are reference notes on core computer science concepts. The goal is to understand what the computer is doing under the hood.
 
 ---
 
