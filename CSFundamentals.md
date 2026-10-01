@@ -1,6 +1,7 @@
 # Computer Science Fundamentals
 
-These are reference notes on core computer science concepts. The goal is to understand what the computer is doing under the hood.
+The goal of this '.md' file is to understand what the computer is doing under the hood. 
+These are my personal reference notes on core computer science concepts.
 
 ---
 
