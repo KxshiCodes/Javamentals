@@ -1,4 +1,4 @@
-# Java Fundamentals
+# Javamentals: CS Fundamentals in Java
 
 Learning, thinking, coding, and documenting Java fundamentals to develop my problem-solving mindset, computational thinking, and a better understanding of syntax.
 
