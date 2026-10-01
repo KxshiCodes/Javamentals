@@ -139,17 +139,3 @@ C has the preprocessing → compilation → assembly → linking pipeline. For J
 ## Week 5: Data Structures
 
 *(to add after the lecture. Java has these built in, e.g. `ArrayList` and `HashMap`.)*
-
----
-
-## Quick reference: C vs Java
-
-| Idea | C | Java |
-|---|---|---|
-| Print | `printf("hi\n");` | `System.out.println("hi");` |
-| Text type | `char[]` / CS50 `string` | `String` (an object) |
-| Boolean | needs `<stdbool.h>` | built in: `boolean` |
-| Array length | track it yourself | `arr.length` |
-| Out-of-bounds | undefined behaviour | exception |
-| Memory | you manage it | garbage collector manages it |
-| Runs as | machine code | bytecode on the JVM |
