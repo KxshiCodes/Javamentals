@@ -8,7 +8,7 @@ This repo is a running log of my journey through core Java concepts not a polish
 
 ## What's here
 
-- 🧠 **Concepts** — notes and small write-ups on Java fundamentals as I learn them
+- 🧠 **Concepts** — reference notes on core computer science concepts and small write-ups on Java fundamentals as I learn them
 - 💻 **Practice** — exercises and problems solved along the way
 - 🐛 **Debugging logs** — mistakes, fixes, and what they taught me
 - 📈 **Progress** — a rough trail of how my thinking evolves over time
