@@ -26,10 +26,6 @@ Key applications of computer science include:
 
 ## Core concepts in Fundamentals of Computer Science I should know are:
 
-
-
-*(to add after research)*
-
 ### Week 1: Algorithms
 
 *(to add after research)*
