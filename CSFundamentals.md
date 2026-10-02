@@ -78,10 +78,17 @@ Learning multiple paradigms gives me flexibility in how I approach problems, whi
 
 ### Week 4: Computer Architecture and Hardware Basics
 
+Understanding what's inside a computer helps me write better software. I'm learning how CPUs, memory, input/output devices 
+and storage work together. If I know how data moves through hardware, I can make my code more efficient.
+
 *(to add after the research. Java hides manual memory management, but the ideas of stack, heap and references still matter.)*
+
+rough notes: 
+- Computers have limitations because they have a finite amount of memory/bits.
 
 ### Week 5: Computer Networking and Internet Fundamentals
 
+Everytime I send a message
 *(to expand on after more research)*
 
 ### Week 6: Databases and Data Management
