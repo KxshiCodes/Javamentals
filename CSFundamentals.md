@@ -53,10 +53,18 @@ with different strengths and levels of complexity. My focus language is Java.
 It's important for me to understand programming languages because knowing what to use, and when, can make my development 
 process more efficient. Some languages are better for rapid prototyping while others give me more control over hardware.
 
-*(to expand on after more research)*
+#### Basic Programming Concepts
+
+- The programming building blocks are Variables, control structures (loops and conditionals), functions, 
+boolean expressions and error handling. I need this to write clear and effective code.
+- Abstraction → hiding complex low level code so I can work with something without needing to understand how it works underneath.
+- Source code is what I write; the Compiler translates it into Machine code that the computer can execute.
+  Source code → Compiler → Machine Code → Execution
 
 Mental Models:
-Source Code → Preprocessing → Compilation → Assembly → Linking → Executable
+- Source code → Compiler → Machine Code → Execution
+
+*(to expand on after more research)*
 
 ### Week 4: Computer Architecture and Hardware Basics
 
