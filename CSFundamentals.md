@@ -47,6 +47,12 @@ Mental Models:
 
 ### Week 3: Programming Languages and Paradigms
 
+I'll be using programming languages as tools to communicate with computers. These languages come
+with different strengths and levels of complexity. My focus language is Java.
+
+It's important for me to understand programming languages because knowing what to use, and when, can make my development 
+process more efficient. Some languages are better for rapid prototyping while others give me more control over hardware.
+
 *(to add after research)*
 
 Mental Models:
