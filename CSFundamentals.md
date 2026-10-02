@@ -32,7 +32,7 @@ Algorithm is a set of step-by-step instructions for solving logical problems.
 A program can be thought of as Input → Algorithm → Output. A  good algorithm saves time, memory and processing power. 
 I’ll use them in almost every area of software development from sorting data to powering AI.
 
-*(to expand on after research)*
+*(to expand on after more research)*
 
 ### Week 2: Data Structure
 
@@ -43,7 +43,7 @@ Understanding how data is structured will give me the potential to build smarter
 Mental Models:
 * Array → [element][element][element][element] stored next to each other in memory.
 
-*(to expand on after the research. Java has these built in, e.g. `ArrayList` and `HashMap`.)*
+*(to expand on after more research. Java has these built in, e.g. `ArrayList` and `HashMap`.)*
 
 ### Week 3: Programming Languages and Paradigms
 
@@ -53,7 +53,7 @@ with different strengths and levels of complexity. My focus language is Java.
 It's important for me to understand programming languages because knowing what to use, and when, can make my development 
 process more efficient. Some languages are better for rapid prototyping while others give me more control over hardware.
 
-*(to add after research)*
+*(to expand on after more research)*
 
 Mental Models:
 Source Code → Preprocessing → Compilation → Assembly → Linking → Executable
@@ -64,12 +64,12 @@ Source Code → Preprocessing → Compilation → Assembly → Linking → Execu
 
 ### Week 5: Computer Networking and Internet Fundamentals
 
-*(to add after research)*
+*(to expand on after more research)*
 
 ### Week 6: Databases and Data Management
 
-*(to add after research)*
+*(to expand on after more research)*
 
 ### Week 7: Software Development Life Cycle (SDLC)
 
-*(to add after research)*
+*(to expand on after more research)*
