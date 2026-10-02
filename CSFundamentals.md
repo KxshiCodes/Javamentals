@@ -1,17 +1,22 @@
 # Computer Science Fundamentals
 
-The goal of this '.md' file is to understand what the computer is doing under the hood. 
+The goal of this document is to understand what the computer is doing under the hood. 
 These are my personal reference notes on core computer science concepts.
 
 ---
 
 ## What is Computer Science?
 
+Computer Science is the study of computers, computing and their theoretical and practical applications.
+CS applies the principles of mathematics, engineering and logic to plenty of functions, 
+incl. algorithm formulation, software and hardware development, and AI. At its core, CS is about problem-solving.
 
 ### Importance and Application of Computer Science?
 
 
+
 ## Core concepts in Fundamentals of Computer Science I should know are:
+
 
 
 *(to add after research)*
