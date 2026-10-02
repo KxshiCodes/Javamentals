@@ -28,15 +28,29 @@ Key applications of computer science include:
 
 ### Week 1: Algorithms
 
-*(to add after research)*
+Algorithm is a set of step-by-step instructions for solving logical problems.
+A program can be thought of as Input → Algorithm → Output. A  good algorithm saves time, memory and processing power. 
+I’ll use them in almost every area of software development from sorting data to powering AI.
+
+*(to expand on after research)*
 
 ### Week 2: Data Structure
 
-*(to add after the research. Java has these built in, e.g. `ArrayList` and `HashMap`.)*
+If I want fast access to data I need to choose the right structure. Arrays, Stacks, Queues, Trees and Graphs each has 
+its purpose. Some are better for searching and others are ideal for storing relationships between elements. 
+Understanding how data is structured will give me the potential to build smarter, faster systems.
+
+Mental Models:
+* Array → [element][element][element][element] stored next to each other in memory.
+
+*(to expand on after the research. Java has these built in, e.g. `ArrayList` and `HashMap`.)*
 
 ### Week 3: Programming Languages and Paradigms
 
 *(to add after research)*
+
+Mental Models:
+Source Code → Preprocessing → Compilation → Assembly → Linking → Executable
 
 ### Week 4: Computer Architecture and Hardware Basics
 
