@@ -62,9 +62,19 @@ boolean expressions and error handling. I need this to write clear and effective
   Source code → Compiler → Machine Code → Execution
 
 Mental Models:
-- Source code → Compiler → Machine Code → Execution
+* Variable → Place to keep information.
+* Functions → an action the program can do.
+* Conditionals → a decision/fork in the program.
+* Loop → repeat something while a condition is met.
+* Boolean → a yes or no question.
 
-*(to expand on after more research)*
+Types of Paradigms
+* Procedural: Step-by-step instructions, often used for simple tasks.
+* Object-Oriented: Data and functions are grouped into objects, great for managing complexity.
+* Functional: Emphasises immutability and reusable functions.
+* Logic-Based: Solves problems by defining rules and relationships.
+
+Learning multiple paradigms gives me flexibility in how I approach problems, which is key advantage in real-world development.
 
 ### Week 4: Computer Architecture and Hardware Basics
 
