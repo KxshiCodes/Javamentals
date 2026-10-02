@@ -103,4 +103,7 @@ a lightning-fast app and one that frustrates users.
 
 ### Week 7: Software Development Life Cycle (SDLC)
 
+Software isn’t built in one step. It evolves from planning and design to testing, deployment and maintenance. 
+The SDLC gives you a framework to manage this process, reduce risk and improve quality.
+
 *(to expand on after more research)*
