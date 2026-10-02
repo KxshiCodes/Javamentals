@@ -68,7 +68,7 @@ Merge Sort O(n log n)
 - Much faster than O(n²) algorithms for large datasets.
 
 ### Big-O / Asymptotic Notation
-Big-O describe how an algorithm's work grows as the input gets biggers.
+Big-O describe how an algorithm's work grows as the input gets bigger.
 
 * O(1) → constant → doesn't really grow
 * O(log n) → grows very slowly
