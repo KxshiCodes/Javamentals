@@ -68,6 +68,7 @@ Merge Sort O(n log n)
 - Much faster than O(n²) algorithms for large datasets.
 
 ### Big-O / Asymptotic Notation
+
 Big-O describe how an algorithm's work grows as the input gets bigger.
 
 * O(1) → constant → doesn't really grow
@@ -76,11 +77,23 @@ Big-O describe how an algorithm's work grows as the input gets bigger.
 * O(n log n) → faster than n²
 * O(n²) → grows very quickly
 
-Recursion. Base case= you get the answers then and there(smaller problem) while recursive case you need to do more work until you find your answers. The work gets smaller and smaller
-
-Main Takeaway: Don't just memorize O(n), O(n²), and O(n log n). Understand what happens when the input gets bigger.
+Note: Don't just memorize O(n), O(n²), and O(n log n). Understand what happens when the input gets bigger.
+- O(n²) becomes much worse than O(n log n) as the amount of data gets large.
 - O(n²) = work grows very quickly.
 - O(n log n) = work grows much more slowly.
+
+### Recursion
+
+A function solving a problem by solving smaller versions of the same problem.
+
+Two important parts:
+
+- Base case → the problem is small enough to solve immediately.
+- Recursive case → make the problem smaller and call the function again.
+
+Mental Model:
+Big problem → smaller problem → even smaller problem → base case
+Merge sort uses this idea.
 
 ### Week 3: Programming Languages and Paradigms
 
