@@ -1,6 +1,6 @@
 # Computer Science Fundamentals
 
-The goal of this document is to understand what the computer is doing under the hood. 
+The goal of this document is to understand what the computer is doing under the hood.
 These are my personal reference notes on core computer science concepts.
 
 ---
