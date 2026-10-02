@@ -21,7 +21,7 @@ Key applications of computer science include:
 
 - Healthcare: Developing diagnostic tools and managing patient data.
 - Finance: Automating trading systems and enhancing cybersecurity.
-- Education: Creating adaptive learning platforms and virtual classroams.
+- Education: Creating adaptive learning platforms and virtual classrooms.
 - Entertainment: Powering video games, streaming services and virtual reality experience.
 
 ## Core concepts in Fundamentals of Computer Science I should know are:
