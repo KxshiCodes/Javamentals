@@ -40,10 +40,47 @@ If I want fast access to data I need to choose the right structure. Arrays, Stac
 its purpose. Some are better for searching and others are ideal for storing relationships between elements. 
 Understanding how data is structured will give me the potential to build smarter, faster systems.
 
-Mental Models:
-* Array → [element][element][element][element] stored next to each other in memory.
+### Searching & Sorting
 
-*(to expand on after more research. Java has these built in, e.g. `ArrayList` and `HashMap`.)*
+#### 1. Searching: finding something in a collection of data.
+
+Linear Search O(n) - Check each item one by one.
+- Simple, but gets slower as the list gets bigger.
+
+Binary Search O(log n) - Only works if the data is sorted. 
+- Look at the middle → eliminate half → repeat.
+- Much faster for large datasets.
+
+#### 2. Sorting: putting data into an order, usually smallest → largest.
+
+Bubble Sort O(n²)
+- Compare neighboring items and swap them.
+- very slow for large lists.
+
+Selection Sort O(n²)
+- Find the smallest item and put it in the correct position.
+- Still slow for large lists.
+
+Merge Sort O(n log n)
+- Split the list into smaller pieces.
+- Sort the smaller pieces.
+- Merge them back together.
+- Much faster than O(n²) algorithms for large datasets.
+
+### Big-O / Asymptotic Notation
+Big-O describe how an algorithm's work grows as the input gets biggers.
+
+* O(1) → constant → doesn't really grow
+* O(log n) → grows very slowly
+* O(n) → grows directly with the amount of data
+* O(n log n) → faster than n²
+* O(n²) → grows very quickly
+
+Recursion. Base case= you get the answers then and there(smaller problem) while recursive case you need to do more work until you find your answers. The work gets smaller and smaller
+
+Main Takeaway: Don't just memorize O(n), O(n²), and O(n log n). Understand what happens when the input gets bigger.
+- O(n²) = work grows very quickly.
+- O(n log n) = work grows much more slowly.
 
 ### Week 3: Programming Languages and Paradigms
 
