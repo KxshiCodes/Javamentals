@@ -10,15 +10,11 @@ The goal is to develop strong computer science fundamentals alongside the practi
 
 Each major topic is approached from multiple angles.
 
-### 1. Understand: Learn the underlying concept and build a mental model.
-
-### 2. Implement: Write the concept from scratch where appropriate.
-
-### 3. Experiment: Create small programs to see how things behave.
-
-### 4. Build: Use the concept in a practical project.
-
-### 5. Reflect: Document what I learned, what challenged me, and what I would improve.
+1. **Understand:** Learn the underlying concept and build a mental model.
+2. **Implement:** Write the concept from scratch where appropriate.
+3. **Experiment:** Create small programs to see how things behave.
+4. **Build:** Use the concept in a practical project.
+5. **Reflect:** Document what I learned, what challenged me, and what I would improve.
 
 This repository is not intended to be a collection of copied tutorials or syntax notes. It is a record of understanding through building.
 
@@ -26,7 +22,7 @@ This repository is not intended to be a collection of copied tutorials or syntax
 
 | Stage | Focus | Status |
 |------:|-------|:------:|
-| 00 | Foundations | 🔄 |
+| 00 | [Foundations](00-foundations) | 🔄 |
 | 01 | Object-Oriented Programming | ⬜ |
 | 02 | Collections | ⬜ |
 | 03 | Algorithms | ⬜ |
