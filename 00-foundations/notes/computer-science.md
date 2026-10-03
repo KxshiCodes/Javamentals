@@ -96,39 +96,7 @@ Understanding how data is structured will give me the potential to build smarter
 
 *(to expand on after more research, Abstract Data Types. Queues, Stacks. Linked Lists. Trees, Binary Search Trees. Hash Tables. Tries.)*
 
-### Week 3: Programming Languages and Paradigms
-
-I'll be using programming languages as tools to communicate with computers. These languages come
-with different strengths and levels of complexity. My focus language is **Java**.
-
-It's important for me to understand programming languages because **knowing what to use, and when, can make my development 
-process more efficient**. Some languages are better for rapid prototyping while others give me more control over hardware.
-
-#### Basic Programming Concepts
-
-- The programming building blocks are **Variables, control structures (loops and conditionals), functions, 
-boolean expressions and error handling**. I need this to write clear and effective code.
-- **Abstraction** → hiding complex low level code so I can work with something without needing to understand how it works underneath.
-- **Source code** is what I write; the **Compiler** translates it into **Machine code** that the computer can **execute**.
-
-  **Source code → Compiler → Machine Code → Execution**
-
-**Mental Models:**
-* **Variable** → Place to keep information.
-* **Functions** → an action the program can do.
-* **Conditionals** → a decision/fork in the program.
-* **Loop** → repeat something while a condition is met.
-* **Boolean** → a yes or no question.
-
-**Types of Paradigms**
-* **Procedural:** Step-by-step instructions, often used for simple tasks.
-* **Object-Oriented:** Data and functions are grouped into objects, great for managing complexity.
-* **Functional:** Emphasises immutability and reusable functions.
-* **Logic-Based:** Solves problems by defining rules and relationships.
-
-Learning multiple paradigms gives me flexibility in how I approach problems, which is key advantage in real-world development.
-
-### Week 4: Computer Architecture and Hardware Basics
+### Week 3: Computer Architecture and Hardware Basics
 
 Understanding what's inside a computer helps me write better software. I'm learning how CPUs, memory, input/output devices 
 and storage work together. If I know how data moves through hardware, I can make my code more efficient.
@@ -150,20 +118,20 @@ and storage work together. If I know how data moves through hardware, I can make
 
 *(to add after the research. )*
 
-### Week 5: Computer Networking and Internet Fundamentals
+### Week 4: Computer Networking and Internet Fundamentals
 
 Everytime I send a message, stream a video or visit a website, **networking protocols** are in play.
 Learning how **IP addresses, DNS, Routing and encryption work** to keep systems connected and secure is essential.
 
 *(to expand on after more research)*
 
-### Week 6: Databases and Data Management
+### Week 5: Databases and Data Management
 
 Data powers everything, but only if it's well organised. Learning the basics of **relational and non-relational databases**,and understanding how to **query them using SQL** is essential. Good database design can mean the difference between a lightning-fast app and one that frustrates users.
 
 *(to expand on after more research)*
 
-### Week 7: Software Development Life Cycle (SDLC)
+### Week 6: Software Development Life Cycle (SDLC)
 
 Software isn’t built in one step. It evolves from **planning and design to testing, deployment and maintenance**. 
 The SDLC gives you a framework to manage this process, reduce risk and improve quality.
