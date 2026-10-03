@@ -45,7 +45,7 @@ Each stage combines theory, hands-on experiments, implementations, and projects.
 
 ## Progress
 
-Weekly progress and reflections are documented in weekly-log/.
+Weekly progress and reflections are documented in [weekly-log/](weekly-log).
 
 Each week captures:
 
