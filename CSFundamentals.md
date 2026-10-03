@@ -7,53 +7,53 @@ These are my personal reference notes on core computer science concepts.
 
 ## What is Computer Science?
 
-Computer Science is the study of computers, computing and their theoretical and practical applications.
+**Computer Science** is the study of computers, computing and their theoretical and practical applications.
 CS applies the principles of mathematics, engineering and logic to plenty of functions, 
-incl. algorithm formulation, software and hardware development, and AI. At its core, CS is about problem-solving.
+incl. algorithm formulation, software and hardware development, and AI. At its core, CS is about **problem-solving**.
 
 ### Importance and Application of Computer Science?
 
-Computer Science is important because almost every sector needs digital transformation. CS seats at the heart of
+**Computer Science** is important because almost every sector needs digital transformation. CS seats at the heart of
 so many important industries. There are more opportunities if I understand it well. Knowing how to design systems,
 protect data and build intelligent software gives me endless career opportunities.
 
 Key applications of computer science include:
 
-- Healthcare: Developing diagnostic tools and managing patient data.
-- Finance: Automating trading systems and enhancing cybersecurity.
-- Education: Creating adaptive learning platforms and virtual classrooms.
-- Entertainment: Powering video games, streaming services and virtual reality experience.
+- **Healthcare:** Developing diagnostic tools and managing patient data.
+- **Finance:** Automating trading systems and enhancing cybersecurity.
+- **Education:** Creating adaptive learning platforms and virtual classrooms.
+- **Entertainment:** Powering video games, streaming services and virtual reality experience.
 
 ## Core concepts in Fundamentals of Computer Science I should know are:
 
 ### Week 1: Algorithms
 
-Algorithm is a set of step-by-step instructions for solving logical problems.
-A program can be thought of as Input → Algorithm → Output. A  good algorithm saves time, memory and processing power. 
+**Algorithms** are a set of step-by-step instructions for solving logical problems.
+A program can be thought of as **Input → Algorithm → Output**. A  good algorithm saves time, memory and processing power. 
 I’ll use them in almost every area of software development from sorting data to powering AI.
 
 ### Searching & Sorting
 
 #### 1. Searching: finding something in a collection of data.
 
-Linear Search O(n) - Check each item one by one.
+**Linear Search O(n)** - Check each item one by one.
 - Simple, but gets slower as the list gets bigger.
 
-Binary Search O(log n) - Only works if the data is sorted.
+**Binary Search O(log n)** - Only works if the data is sorted.
 - Look at the middle → eliminate half → repeat.
 - Much faster for large datasets.
 
 #### 2. Sorting: putting data into an order, usually smallest → largest.
 
-Bubble Sort O(n²)
+**Bubble Sort O(n²)**
 - Compare neighboring items and swap them.
 - very slow for large lists.
 
-Selection Sort O(n²)
+**Selection Sort O(n²)**
 - Find the smallest item and put it in the correct position.
 - Still slow for large lists.
 
-Merge Sort O(n log n)
+**Merge Sort O(n log n)**
 - Split the list into smaller pieces.
 - Sort the smaller pieces.
 - Merge them back together.
@@ -69,7 +69,8 @@ Big-O describe how an algorithm's work grows as the input gets bigger.
 * O(n log n) → faster than n²
 * O(n²) → grows very quickly
 
-Note: Don't just memorize O(n), O(n²), and O(n log n). Understand what happens when the input gets bigger.
+**Note:** *Don't just memorise O(n), O(n²), and O(n log n). Understand what happens when the input gets bigger*.
+
 - O(n²) becomes much worse than O(n log n) as the amount of data gets large.
 - O(n²) = work grows very quickly.
 - O(n log n) = work grows much more slowly.
@@ -80,16 +81,16 @@ A function solving a problem by solving smaller versions of the same problem.
 
 Two important parts:
 
-- Base case → the problem is small enough to solve immediately.
-- Recursive case → make the problem smaller and call the function again.
+- **Base case** → the problem is small enough to solve immediately.
+- **Recursive case** → make the problem smaller and call the function again.
 
-Mental Model:
+**Mental Model:**
 Big problem → smaller problem → even smaller problem → base case
 Merge sort uses this idea.
 
 ### Week 2: Data Structure
 
-If I want fast access to data I need to choose the right structure. Arrays, Stacks, Queues, Trees and Graphs each has 
+If I want fast access to data I need to choose the right structure. **Arrays, Stacks, Queues, Trees and Graphs** each has 
 its purpose. Some are better for searching and others are ideal for storing relationships between elements. 
 Understanding how data is structured will give me the potential to build smarter, faster systems.
 
@@ -98,31 +99,31 @@ Understanding how data is structured will give me the potential to build smarter
 ### Week 3: Programming Languages and Paradigms
 
 I'll be using programming languages as tools to communicate with computers. These languages come
-with different strengths and levels of complexity. My focus language is Java.
+with different strengths and levels of complexity. My focus language is **Java**.
 
-It's important for me to understand programming languages because knowing what to use, and when, can make my development 
-process more efficient. Some languages are better for rapid prototyping while others give me more control over hardware.
+It's important for me to understand programming languages because **knowing what to use, and when, can make my development 
+process more efficient**. Some languages are better for rapid prototyping while others give me more control over hardware.
 
 #### Basic Programming Concepts
 
-- The programming building blocks are Variables, control structures (loops and conditionals), functions, 
-boolean expressions and error handling. I need this to write clear and effective code.
-- Abstraction → hiding complex low level code so I can work with something without needing to understand how it works underneath.
-- Source code is what I write; the Compiler translates it into Machine code that the computer can execute.
-  Source code → Compiler → Machine Code → Execution
+- The programming building blocks are **Variables, control structures (loops and conditionals), functions, 
+boolean expressions and error handling**. I need this to write clear and effective code.
+- **Abstraction** → hiding complex low level code so I can work with something without needing to understand how it works underneath.
+- **Source code** is what I write; the **Compiler** translates it into **Machine code** that the computer can **execute**.
+  **Source code → Compiler → Machine Code → Execution**
 
-Mental Models:
-* Variable → Place to keep information.
-* Functions → an action the program can do.
-* Conditionals → a decision/fork in the program.
-* Loop → repeat something while a condition is met.
-* Boolean → a yes or no question.
+**Mental Models:**
+* **Variable** → Place to keep information.
+* **Functions** → an action the program can do.
+* **Conditionals** → a decision/fork in the program.
+* **Loop** → repeat something while a condition is met.
+* **Boolean** → a yes or no question.
 
-Types of Paradigms
-* Procedural: Step-by-step instructions, often used for simple tasks.
-* Object-Oriented: Data and functions are grouped into objects, great for managing complexity.
-* Functional: Emphasises immutability and reusable functions.
-* Logic-Based: Solves problems by defining rules and relationships.
+**Types of Paradigms**
+* **Procedural:** Step-by-step instructions, often used for simple tasks.
+* **Object-Oriented:** Data and functions are grouped into objects, great for managing complexity.
+* **Functional:** Emphasises immutability and reusable functions.
+* **Logic-Based:** Solves problems by defining rules and relationships.
 
 Learning multiple paradigms gives me flexibility in how I approach problems, which is key advantage in real-world development.
 
@@ -131,41 +132,39 @@ Learning multiple paradigms gives me flexibility in how I approach problems, whi
 Understanding what's inside a computer helps me write better software. I'm learning how CPUs, memory, input/output devices 
 and storage work together. If I know how data moves through hardware, I can make my code more efficient.
 
-Note: Java hides manual memory management, but the ideas of stack, heap and references still matter.
+**Note:** *Java hides manual memory management, but the ideas of stack, heap and references still matter*.
 
 ### Memory
 
 - Computers have limitations because they have a finite amount of memory/bits.
-- Memory addresses and pointers:
-- Pointers:
-- Stack: 
-- Heap:
-- Dynamic Memory Allocation:
-- Segmentation Faults:
-- Buffer Overflow:
-- File I/O:
-- Images:
+- **Memory addresses and pointers:**
+- **Pointers:**
+- **Stack:** 
+- **Heap:**
+- **Dynamic Memory Allocation:**
+- **Segmentation Faults:**
+- **Buffer Overflow:**
+- **File I/O:**
+- **Images:**
 
 *(to add after the research. )*
 
 ### Week 5: Computer Networking and Internet Fundamentals
 
-Everytime I send a message, stream a video or visit a website, networking protocols are in play.
-Learning how IP addresses, DNS, Routing and encryption work to keep systems connected and secure is essential.
+Everytime I send a message, stream a video or visit a website, **networking protocols** are in play.
+Learning how **IP addresses, DNS, Routing and encryption work** to keep systems connected and secure is essential.
 
 *(to expand on after more research)*
 
 ### Week 6: Databases and Data Management
 
-Data powers everything, but only if it's well organised. Learning the basics of relational and non-relational databases, 
-and understanding how to query them using SQL is essential. Good database design can mean the difference between 
-a lightning-fast app and one that frustrates users.
+Data powers everything, but only if it's well organised. Learning the basics of **relational and non-relational databases**,and understanding how to **query them using SQL** is essential. Good database design can mean the difference between a lightning-fast app and one that frustrates users.
 
 *(to expand on after more research)*
 
 ### Week 7: Software Development Life Cycle (SDLC)
 
-Software isn’t built in one step. It evolves from planning and design to testing, deployment and maintenance. 
+Software isn’t built in one step. It evolves from **planning and design to testing, deployment and maintenance**. 
 The SDLC gives you a framework to manage this process, reduce risk and improve quality.
 
 *(to expand on after more research)*
