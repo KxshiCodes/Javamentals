@@ -32,14 +32,6 @@ Algorithm is a set of step-by-step instructions for solving logical problems.
 A program can be thought of as Input → Algorithm → Output. A  good algorithm saves time, memory and processing power. 
 I’ll use them in almost every area of software development from sorting data to powering AI.
 
-*(to expand on after more research)*
-
-### Week 2: Data Structure
-
-If I want fast access to data I need to choose the right structure. Arrays, Stacks, Queues, Trees and Graphs each has 
-its purpose. Some are better for searching and others are ideal for storing relationships between elements. 
-Understanding how data is structured will give me the potential to build smarter, faster systems.
-
 ### Searching & Sorting
 
 #### 1. Searching: finding something in a collection of data.
@@ -47,7 +39,7 @@ Understanding how data is structured will give me the potential to build smarter
 Linear Search O(n) - Check each item one by one.
 - Simple, but gets slower as the list gets bigger.
 
-Binary Search O(log n) - Only works if the data is sorted. 
+Binary Search O(log n) - Only works if the data is sorted.
 - Look at the middle → eliminate half → repeat.
 - Much faster for large datasets.
 
@@ -95,6 +87,14 @@ Mental Model:
 Big problem → smaller problem → even smaller problem → base case
 Merge sort uses this idea.
 
+### Week 2: Data Structure
+
+If I want fast access to data I need to choose the right structure. Arrays, Stacks, Queues, Trees and Graphs each has 
+its purpose. Some are better for searching and others are ideal for storing relationships between elements. 
+Understanding how data is structured will give me the potential to build smarter, faster systems.
+
+*(to expand on after more research, Abstract Data Types. Queues, Stacks. Linked Lists. Trees, Binary Search Trees. Hash Tables. Tries.)*
+
 ### Week 3: Programming Languages and Paradigms
 
 I'll be using programming languages as tools to communicate with computers. These languages come
@@ -131,10 +131,22 @@ Learning multiple paradigms gives me flexibility in how I approach problems, whi
 Understanding what's inside a computer helps me write better software. I'm learning how CPUs, memory, input/output devices 
 and storage work together. If I know how data moves through hardware, I can make my code more efficient.
 
-*(to add after the research. Java hides manual memory management, but the ideas of stack, heap and references still matter.)*
+Note: Java hides manual memory management, but the ideas of stack, heap and references still matter.
 
-rough notes: 
+### Memory
+
 - Computers have limitations because they have a finite amount of memory/bits.
+- Memory addresses and pointers:
+- Pointers:
+- Stack: 
+- Heap:
+- Dynamic Memory Allocation:
+- Segmentation Faults:
+- Buffer Overflow:
+- File I/O:
+- Images:
+
+*(to add after the research. )*
 
 ### Week 5: Computer Networking and Internet Fundamentals
 
