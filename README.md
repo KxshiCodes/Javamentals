@@ -1,22 +1,78 @@
-# Javamentals: CS Fundamentals in Java
+# Javamentals V3
 
-Learning, thinking, coding, and documenting Java fundamentals to develop my problem-solving mindset, computational thinking, and a better understanding of syntax.
+This repository documents my journey from learning the fundamentals of Java to building complete software systems. Rather than simply collecting tutorials or rewriting documentation, I learn through a cycle of: 
 
-## Purpose
+> **Understand → Implement → Experiment → Build → Reflect**
 
-This repo is a running log of my journey through core Java concepts not a polished portfolio piece, but a space to build habits, track progress, and think out loud through code.
+The goal is to develop strong computer science fundamentals alongside the practical skills needed to build real-world software.
 
-## What's here
+## 🧠 How I Learn
 
-- 🧠 **Concepts** — reference notes on core computer science concepts and small write-ups on Java fundamentals as I learn them
-- 💻 **Practice** — exercises and problems solved along the way
-- 🐛 **Debugging logs** — mistakes, fixes, and what they taught me
-- 📈 **Progress** — a rough trail of how my thinking evolves over time
+Each major topic is approached from multiple angles.
 
-## Why
+### 1. Understand
 
-Syntax is easy to forget. Problem-solving isn't, if I build it right. This repo exists to make sure I'm doing the latter, not just memorising the former.
+Learn the underlying concept and build a mental model.
 
-## Status
+### 2. Implement
 
-🚧 Actively learning so expect messy commits and honest progress.
+Write the concept from scratch where appropriate.
+
+### 3. Experiment
+
+Create small programs to see how things behave.
+
+### 4. Build
+
+Use the concept in a practical project.
+
+### 5. Reflect
+
+Document what I learned, what challenged me, and what I would improve.
+
+This repository is not intended to be a collection of copied tutorials or syntax notes. It is a record of understanding through building.
+
+## 🗺️ Roadmap
+
+| Stage | Focus | Status |
+|------:|-------|:------:|
+| 00 | Foundations | 🔄 |
+| 01 | Object-Oriented Programming | ⬜ |
+| 02 | Collections | ⬜ |
+| 03 | Algorithms | ⬜ |
+| 04 | Data Structures | ⬜ |
+| 05 | Computer Systems | ⬜ |
+| 06 | Networking | ⬜ |
+| 07 | Databases | ⬜ |
+| 08 | Spring Boot | ⬜ |
+| 09 | Web Development | ⬜ |
+| 10 | Full Stack | ⬜ |
+| 11 | Capstone | ⬜ |
+
+Each stage combines theory, hands-on experiments, implementations, and projects.
+
+## Technologies
+Languages: Java · SQL · HTML · CSS · JavaScript
+Backend: Spring · Spring Boot · REST APIs
+Database: PostgreSQL
+Tools: Git · GitHub · Maven · Docker · JUnit
+
+## Progress
+
+Weekly progress and reflections are documented in weekly-log/.
+
+Each week captures:
+
+- What I learned
+- What I built
+- What challenged me
+- What I need to revisit
+- What comes next
+
+## 🎯 Goal
+
+The goal isn't to simply finish a list of technologies.
+
+It's to become capable of taking a problem, understanding it, designing a solution, building it, testing it, and explaining the decisions behind it.
+
+> **Learn the concept. Build the thing. Understand why it works.**
