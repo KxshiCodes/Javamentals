@@ -52,10 +52,10 @@ This repository is not intended to be a collection of copied tutorials or syntax
 Each stage combines theory, hands-on experiments, implementations, and projects.
 
 ## Technologies
-Languages: Java · SQL · HTML · CSS · JavaScript
-Backend: Spring · Spring Boot · REST APIs
-Database: PostgreSQL
-Tools: Git · GitHub · Maven · Docker · JUnit
+- **Languages:** Java · SQL · HTML · CSS · JavaScript
+- **Backend:** Spring · Spring Boot · REST APIs
+- **Database:** PostgreSQL
+- **Tools:** Git · GitHub · Maven · Docker · JUnit
 
 ## Progress
 
