@@ -23,8 +23,6 @@ public class Story {
         System.out.println("On the way to work, " + name + " reflected on life.");
         System.out.println("Perhaps " + name + " will not be " + jobTitle + " forever.");
 
-        //
-
         
 
     }
