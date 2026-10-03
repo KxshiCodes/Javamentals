@@ -110,6 +110,7 @@ process more efficient**. Some languages are better for rapid prototyping while 
 boolean expressions and error handling**. I need this to write clear and effective code.
 - **Abstraction** → hiding complex low level code so I can work with something without needing to understand how it works underneath.
 - **Source code** is what I write; the **Compiler** translates it into **Machine code** that the computer can **execute**.
+
   **Source code → Compiler → Machine Code → Execution**
 
 **Mental Models:**
