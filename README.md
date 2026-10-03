@@ -6,6 +6,8 @@ This repository documents my journey from learning the fundamentals of Java to b
 
 The goal is to develop strong computer science fundamentals alongside the practical skills needed to build real-world software.
 
+> *This repo is structured as a series of focused learning cycles rather than a fixed deadline. The pace may change as topics require deeper exploration*.
+
 ## 🧠 How I Learn
 
 Each major topic is approached from multiple angles.
