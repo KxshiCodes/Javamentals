@@ -29,3 +29,10 @@ boolean expressions and error handling**. I need this to write clear and effecti
 * **Logic-Based:** Solves problems by defining rules and relationships.
 
 Learning multiple paradigms gives me flexibility in how I approach problems, which is key advantage in real-world development.
+
+## Software Development Life Cycle (SDLC)
+
+Software isn’t built in one step. It evolves from **planning and design to testing, deployment and maintenance**. 
+The SDLC gives you a framework to manage this process, reduce risk and improve quality.
+
+*(to expand on after more research)*
