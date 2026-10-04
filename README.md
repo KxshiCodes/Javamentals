@@ -48,14 +48,6 @@ Each stage combines theory, hands-on experiments, implementations, and projects.
 
 Weekly progress and reflections are documented in [weekly-log/](weekly-log).
 
-Each week captures:
-
-- What I learned
-- What I built
-- What challenged me
-- What I need to revisit
-- What comes next
-
 ## 🎯 Goal
 
 The goal isn't to simply finish a list of technologies.
