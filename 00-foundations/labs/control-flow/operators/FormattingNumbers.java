@@ -1,5 +1,3 @@
-package _03_ControlFlow.operators;
-
 import java.text.NumberFormat;
 
 public class FormattingNumbers {

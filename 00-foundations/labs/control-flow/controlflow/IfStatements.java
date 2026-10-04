@@ -1,5 +1,3 @@
-package _03_ControlFlow.controlflow;
-
 public class IfStatements {
     public static void main(String[] args) {
 

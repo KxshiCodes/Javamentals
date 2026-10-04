@@ -1,5 +1,3 @@
-package _03_ControlFlow.operators;
-
 public class ArithmeticExp {
     public static void main(String[] args) {
 

@@ -1,5 +1,3 @@
-package _03_ControlFlow.controlflow;
-
 public class SwitchStatement {
     public static void main(String[] args) {
 

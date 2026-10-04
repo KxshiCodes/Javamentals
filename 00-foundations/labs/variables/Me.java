@@ -1,5 +1,3 @@
-package _02_Variables;
-
 import java.util.Scanner;
 
 public class Me {

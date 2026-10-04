@@ -1,5 +1,3 @@
-package _03_ControlFlow.operators;
-
 public class MathClass {
     public static void main(String[] args) {
 

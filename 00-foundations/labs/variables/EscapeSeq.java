@@ -1,5 +1,3 @@
-package _02_Variables;
-
 public class EscapeSeq {
     public static void main(String[] args) {
 
