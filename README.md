@@ -34,7 +34,7 @@ This repository is not intended to be a collection of copied tutorials or syntax
 | 08 | Spring Boot | ⬜ |
 | 09 | Web Development | ⬜ |
 | 10 | Full Stack | ⬜ |
-| 11 | Capstone Project | ⬜ |
+| 11 | Personal Project | ⬜ |
 
 Each stage combines theory, hands-on experiments, implementations, and projects.
 
