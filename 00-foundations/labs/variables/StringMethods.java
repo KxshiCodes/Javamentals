@@ -9,7 +9,6 @@ public class StringMethods {
         System.out.println(message.replace("!", "*"));
         System.out.println(message.toLowerCase());
         System.out.println(message.toUpperCase());
-        System.out.println(message.trim());
     }
 }
 
@@ -22,7 +21,6 @@ public class StringMethods {
 - replace() replaces characters or text with something else.
 - toLowerCase() converts text to lowercase.
 - toUpperCase() converts text to uppercase.
- - Integer.valueOf converts a string to an integer
 */
 
 // Things I got stuck on
