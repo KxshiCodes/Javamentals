@@ -29,6 +29,7 @@ public class Introduction {
 - nextLine() reads text.
 - nextInt() reads integer.
 - nextDouble reads a decimal number.
+- .trim() removes whitespace from the beginning and end of a String.
 - I can use '⌘ + Ctrl + G' to select all occurrences in IntelliJ.
 - Java 25 has introduced newer alternatives to some traditional Java syntax.
   */

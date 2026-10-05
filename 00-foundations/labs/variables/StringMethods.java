@@ -14,24 +14,25 @@ public class StringMethods {
 }
 
 // Things I've discovered
-// - A String stores a sequence of characters.
-// - Strings have built-in methods for working with text.
-// - endsWith() checks whether a String ends with specific characters.
-// - length() returns the number of characters in a String.
-// - indexOf() returns the position of a character or piece of text.
-// - replace() replaces characters or text with something else.
-// - toLowerCase() converts text to lowercase.
-// - toUpperCase() converts text to uppercase.
-// - trim() removes whitespace from the beginning and end of a String.
+/* - A String stores a sequence of characters.
+- Strings have built-in methods for working with text.
+- endsWith() checks whether a String ends with specific characters.
+- length() returns the number of characters in a String.
+- indexOf() returns the position of a character or piece of text.
+- replace() replaces characters or text with something else.
+- toLowerCase() converts text to lowercase.
+- toUpperCase() converts text to uppercase.
+ - Integer.valueOf converts a string to an integer
+*/
 
 // Things I got stuck on
-// -
 
-// Things I can now do
-// - Create and store a String.
-// - Check whether a String ends with specific text.
-// - Find the length of a String.
-// - Find the position of a character.
-// - Replace characters in a String.
-// - Change a String to uppercase or lowercase.
-// - Remove leading and trailing whitespace.
+/* Things I can now do
+- Create and store a String.
+- Check whether a String ends with specific text.
+- Find the length of a String.
+- Find the position of a character.
+- Replace characters in a String.
+- Change a String to uppercase or lowercase.
+- Remove leading and trailing whitespace.
+*/

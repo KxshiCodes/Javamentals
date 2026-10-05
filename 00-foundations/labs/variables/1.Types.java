@@ -20,7 +20,7 @@ public class Types {
 
 // Things I've discovered
 /* - Primitive types store simple values.
-- Java has 8 primitive types: byte, short, int, long, float, double, char, and boolean.
+- Java has 8 primitive types: byte, short, int(whole numbers), long, float, double(decimal numbers), char, and boolean(true or false).
 - Reference types refer to objects.
 - Examples of reference types include String, Date, arrays, and custom classes.
 - Underscores can make large numbers easier to read, e.g. 2_200_456_800.
