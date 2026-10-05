@@ -1,6 +1,6 @@
 import java.util.Scanner; // imported to read User input
 
-public class DifferentTypesOfInput {
+public class Types {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
@@ -39,7 +39,7 @@ public class DifferentTypesOfInput {
 - Integer.valueOf converts a string to an integer.
 - Double.valueOf converts a string to a double.
 - Boolean.valueOf converts a string to a boolean.
-- I can assign an integer to a variable of the double type, since Java knows how to convert an integer to a double during assignment.
+- I can assign an integer to a variable of the double type, since Java knows (Implicit casting) how to convert an integer to a double during assignment.
 */
 
 // Things I got stuck on
