@@ -1,29 +1,45 @@
 // Introduce the scanner tool used for reading user input
 import java.util.Scanner;
 
-public class Story {
+public class Introduction {
 
     public static void main(String[] args) {
-        
-        // Tool to read user input
-        Scanner scn = new Scanner(System.in);
+        Scanner scn = new Scanner(System.in); // Tool to read user input
 
-        // Prompt User main characters name
-        System.out.println("I will tell you a story, but I need some information first. \nWhat is the main character called? ");
-    
-        // Read the string written by the user
-        String name = scn.nextLine();
+        System.out.println("Enter your name: "); // Prompt User for name
+        String name = scn.nextLine().trim(); // Read the string written by the user, trim white spaces
+        System.out.println("Hello, " + name + "!"); // Print User input using Concatenation   
 
-        // Prompt User for Job
-        System.out.println("What is their job? ");
-        String jobTitle = scn.nextLine();
+        System.out.println("Enter your age: "); // Prompt User for age
+        int age = scn.nextInt(); // Read the int written by user
+        System.out.println("You are " + age + " years old."); 
 
-        // Print out Story using Concatenation
-        System.out.println("Here is the story: \nOnce upon a time there was " + name + ", who was " + jobTitle + ".");
-        System.out.println("On the way to work, " + name + " reflected on life.");
-        System.out.println("Perhaps " + name + " will not be " + jobTitle + " forever.");
+        System.out.println("How tall are you: "); // Prompt User height
+        Double height = scn.nextDouble(); // Read height input in double
+        System.out.println("You are " + height + " meters tall.");     
 
-        
+        scn.close(); // Close the scanner to prevent resource leaks 
 
     }
 }
+
+// Things I've discovered:
+/* 
+- I can use a scanner to read different types of input.
+- nextLine() reads text.
+- nextInt() reads integer.
+- nextDouble reads a decimal number.
+- I can use '⌘ + Ctrl + G' to select all occurrences in IntelliJ.
+- Java 25 has introduced newer alternatives to some traditional Java syntax.
+  */
+
+// Things I got stuck on:
+
+// Things I can now do:
+/*
+- Read text input from user.
+- Read integer input from the user.
+- Read decimal input from the user
+- Store user input in variables
+- Print the user's input back to the console.
+*/
