@@ -19,16 +19,18 @@ public class Types {
 }
 
 // Things I've discovered
-// - Primitive types store simple values.
-// - Java has 8 primitive types: byte, short, int, long, float, double, char, and boolean.
-// - Reference types refer to objects.
-// - Examples of reference types include String, Date, arrays, and custom classes.
-// - Underscores can make large numbers easier to read, e.g. 2_200_456_800.
-// - L tells Java that a number is a long.
-// - F tells Java that a decimal number is a float.
-// - An object is a thing created from a class.
-// - An instance is a specific object created from a class.
-// - A class is like a blueprint, and an object/instance is something built from that blueprint.
+/* - Primitive types store simple values.
+- Java has 8 primitive types: byte, short, int, long, float, double, char, and boolean.
+- Reference types refer to objects.
+- Examples of reference types include String, Date, arrays, and custom classes.
+- Underscores can make large numbers easier to read, e.g. 2_200_456_800.
+- L tells Java that a number is a long.
+- F tells Java that a decimal number is a float.
+- An object is a thing created from a class.
+- An instance is a specific object created from a class.
+- A class is like a blueprint, and an object/instance is something built from that blueprint.
+- I can assign an integer to a variable of the double type, since Java knows how to convert an integer to a double during assignment.
+*/
 
 // Things I got stuck on
 // - The concept or difference between Class, Objects and instances
