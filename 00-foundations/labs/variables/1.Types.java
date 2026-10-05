@@ -51,6 +51,8 @@ public class DifferentTypesOfInput {
 */
 
 // Things I can now do
-// - Declare variables using different primitive types.
-// - Store whole numbers, decimal numbers, characters, and boolean values.
-// - Distinguish between primitive types and reference types.
+/*
+- Declare variables using different primitive types.
+- Store whole numbers, decimal numbers, characters, and boolean values.
+- Distinguish between primitive types and reference types.
+*/
