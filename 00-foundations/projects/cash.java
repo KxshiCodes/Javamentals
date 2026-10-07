@@ -1,75 +1,62 @@
-// Convert this from C to Java, using the same logic and structure as the original C code.
-
 import java.util.Scanner;
+
 public class Cash {
-#include <cs50.h>
-#include <stdio.h>
+    public static void main(String[] args) {
+        Scanner scn = new Scanner(System.in);
 
-// Function Prototypes
-int calculate_quarters(int cents);
-int calculate_dimes(int cents);
-int calculate_nickels(int cents);
-int calculate_pennies(int cents);
-void cash_calc(int cents);
+        // Prompt the user for change owed, in cents
+        int cents;
 
-int main(void)
-{
-    // Prompt the user for change owed, in cents(int)
-    int cents;
-    do
-    {
-        cents = get_int("Change owed: ");
+        do {
+            System.out.print("Change owed: ");
+            cents = scn.nextInt();
+        } while (cents < 0);
+
+        // Function call
+        cashCalc(cents);
+
+        scn.close();
     }
-    while (cents < 0);
 
-    // Function call
-    cash_calc(cents);
-}
+    // Function definition
+    public static void cashCalc(int cents) {
 
-// Function definition
-void cash_calc(int cents)
-{
-    // Calculate quarters, subtract the value of those quarters from cents.
-    int quarters = calculate_quarters(cents);
-    cents = cents - (quarters * 25);
+        // Calculate quarters
+        int quarters = calcQuarters(cents);
+        cents = cents - (quarters * 25);
 
-    // Calculate dimes, subtract the value of those dimes from cents.
-    int dimes = calculate_dimes(cents);
-    cents = cents - (dimes * 10);
+        // Calculate dimes
+        int dimes = calcDimes(cents);
+        cents = cents - (dimes * 10);
 
-    // Calculate nickels, subtract the value of those nickels from cents.
-    int nickels = calculate_nickels(cents);
-    cents = cents - (nickels * 5);
+        // Calculate nickels
+        int nickels = calcNickels(cents);
+        cents = cents - (nickels * 5);
 
-    // Calculate pennies, subtract the value of those pennies from cents.
-    int pennies = calculate_pennies(cents);
-    cents = cents - (pennies * 1);
+        // Calculate pennies
+        int pennies = calcPennies(cents);
+        cents = cents - (pennies * 1);
 
-    // Sum the number of quarters, dimes, nickels, and pennies used.
-    int coins = quarters + dimes + nickels + pennies;
+        // Calculate total number of coins
+        int coins = quarters + dimes + nickels + pennies;
 
-    // Print that sum.
-    printf("%i\n", coins);
-}
+        // Print the answer
+        System.out.println(coins);
+    }
 
-// Function definition - Integer division solution
-// Let C work for you instead of manually performing division the complicated way.
-int calculate_quarters(int cents)
-{
-    return cents / 25;
-}
+    public static int calcQuarters(int cents) {
+        return cents / 25;
+    }
 
-int calculate_dimes(int cents)
-{
-    return cents / 10;
-}
+    public static int calcDimes(int cents) {
+        return cents / 10;
+    }
 
-int calculate_nickels(int cents)
-{
-    return cents / 5;
-}
+    public static int calcNickels(int cents) {
+        return cents / 5;
+    }
 
-int calculate_pennies(int cents)
-{
-    return cents / 1;
+    public static int calcPennies(int cents) {
+        return cents / 1;
+    }
 }
