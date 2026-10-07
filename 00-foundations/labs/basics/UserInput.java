@@ -1,7 +1,7 @@
 // Introduce the scanner tool used for reading user input
 import java.util.Scanner;
 
-public class Introduction {
+public class UserInput {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in); // Tool to read user input
