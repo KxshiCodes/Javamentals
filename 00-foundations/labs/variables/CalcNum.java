@@ -22,6 +22,7 @@ public class CalcNum{
         System.out.println(fNum + " * " + sNum + " = " + result3);
         System.out.println(fNum + " / " + sNum + " = " + result4);
 
+        scn.close();
     }
 }
 
