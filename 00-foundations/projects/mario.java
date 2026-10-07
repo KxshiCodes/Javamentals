@@ -1,39 +1,44 @@
-// mario this from C to Java, using the same logic and structure as the original C code.
+import java.util.Scanner;
 
-public static void mario(int height);
+public class Mario {
+    public static void main(String[] args) {
+        Scanner scn = new Scanner(System.in);
+        
+        int height;
 
-public static void main(String[] args) {
-    // Prompt user for pyramid height(int)
-    // Used 'do while' loop to continuosly the prompt user until input validation is satisfied.
-    int height;
-    do
-    {
-        height = get_int("Enter height of pyramid: ");
-    }
-    while (height < 1 || height > 8);
+        do
+        {
+            System.out.print("Height: "); // Prompt user for pyramid height(int)until input validation is satisfied.
+            height = scn.nextInt();
+        } while (height < 1 || height > 8);
 
-    // Function call
-    print_pyramid(height);
+        printPyramid(height); // Function call
+        scn.close();
 }
 
-// Function definition
-void print_pyramid(int height)
+public static void printPyramid(int height) // Function definition
 {
-    // 'Nested for loop' used to print spaces next to bricks shifting it to a right- aligned brick wall.
     for (int row = 0; row < height; row++)
     {
-        // Print spaces
-        for (int spaces = 0; spaces < height - row - 1; spaces++)
-        {
-            printf(" ");
+        // Print spaces on the left side of the pyramid
+        for (int spaces = 0; spaces < height - row - 1; spaces++) {
+            System.out.print(" ");
         }
 
-        // Print bricks
-        for (int column = 0; column <= row; column++)
-        {
-            printf("#");
+        // Print left bricks
+        for (int column = 0; column <= row; column++) {
+            System.out.print("#");
         }
-        // Skip to new line
-        printf("\n");
+
+        // Print gap between left and right bricks
+        System.out.print("  ");
+
+        // Print right bricks
+        for (int column = 0; column <= row; column++) {
+            System.out.print("#");
+        }
+
+        System.out.println(); // New line
     }
+}
 }
