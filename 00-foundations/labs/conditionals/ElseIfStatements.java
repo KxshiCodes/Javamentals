@@ -1,25 +1,30 @@
 import java.util.Scanner;
 
-public class ElseIfStatement {
+public class GradesAndPoints {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 
-        System.out.println("Give the first number: ");
-        int number1 = scn.nextInt();
+        System.out.println("Give points [0-100]: ");
+        int points = scn.nextInt();
 
-        System.out.println("Give the first number: ");
-        int number2 = scn.nextInt();
-
-
-        if (number1 > number2 ){
-            System.out.println("Greater number is: " + number1);
-        }  else if (number1 < number2){
-            System.out.println("Greater number is: " + number2); 
-        } else { 
-            System.out.println("The numbers are equal!"); 
+        if (points < 0) {
+            System.out.println("Grade: impossible!");
+        } else if (points < 50) {
+            System.out.println("Grade: failed");
+        } else if (points < 60) {
+            System.out.println("Grade: 1");
+        } else if (points < 70) {
+            System.out.println("Grade: 2");
+        } else if (points < 80) {
+            System.out.println("Grade: 3");
+        } else if (points < 90) {
+            System.out.println("Grade: 4");
+        } else if (points <= 100) {
+            System.out.println("Grade: 5");
+        } else {
+            System.out.println("Grade: incredible!");
         }
-
     }
 }
 
