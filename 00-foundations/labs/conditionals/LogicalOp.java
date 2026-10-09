@@ -1,21 +1,19 @@
+import java.util.Scanner;
+
 public class LogicalOp {
+
     public static void main(String[] args) {
+        Scanner scn = new Scanner(System.in);
 
-        // AND operator
-        int temperature = 22;
-        boolean isWarm = temperature > 20 && temperature < 25;
+        System.out.println("How old are you? ");
+        int age = scn.nextInt();
 
-        System.out.println(isWarm);
+        if (age > -1 && age <= 120){
+            System.out.println("OK");
+        } else {
+            System.out.println("Impossible!");
+        }
 
-        // OR and NOT operators
-        boolean hasHighIncome = true;
-        boolean hasGoodCredit = true;
-        boolean hasCriminalRecord = false;
-
-        boolean isEligible =
-                (hasHighIncome || hasGoodCredit) && !hasCriminalRecord;
-
-        System.out.println(isEligible);
     }
 }
 
