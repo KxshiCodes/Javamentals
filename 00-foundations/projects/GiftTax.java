@@ -28,3 +28,11 @@ public class GiftTax {
     }
 }
 
+// Mistakes I made when problem solving
+/*
+- I put the expression operators in the wrong place
+- I forgot to add a '=' to the end of the '+' for this program
+- I realised i had to minus gift from the lowest range of tax range
+- When I felt close to solving my problem I rushed the code I didn't take my time to process why my previous code were wrong.
+I just kept trying different solutions without letting it mentally marinate.
+*/
