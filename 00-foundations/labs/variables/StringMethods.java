@@ -13,7 +13,8 @@ public class StringMethods {
 }
 
 // Things I've discovered
-/* - A String stores a sequence of characters.
+/* 
+- A String stores a sequence of characters.
 - Strings have built-in methods for working with text.
 - endsWith() checks whether a String ends with specific characters.
 - length() returns the number of characters in a String.
