@@ -27,17 +27,20 @@ public class CalcNum{
 }
 
 // Things I've discovered
-// - Arithmetic expressions are used to perform calculations.
-// - + adds two values.
-// - - subtracts one value from another.
-// - * multiplies two values.
-// - / divides one value by another.
-// - % gives me the remainder after division.
+/*
+- Arithmetic expressions are used to perform calculations.
+- + adds two values.
+- - subtracts one value from another.
+- * multiplies two values.
+- / divides one value by another.
+- % gives me the remainder after division.
+*/ 
 
 // Things I got stuck on
-// -
+
 
 // Things I can now do
-// - Add, subtract, multiply, and divide values.
-// - Find the remainder using %.
-
+/*
+- Add, subtract, multiply, and divide values.
+- Find the remainder using %.
+*/
