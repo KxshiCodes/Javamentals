@@ -1,4 +1,4 @@
-# Javamentals V4
+# Javamentals
 
 This repository documents my journey from learning the fundamentals of Java to designing, building, and understanding complete software systems.
 
