@@ -1,10 +1,9 @@
-// Introduce the scanner tool used for reading user input
-import java.util.Scanner;
+import java.util.Scanner; // Making the scanner available in the program
 
 public class UserInput {
 
     public static void main(String[] args) {
-        Scanner scn = new Scanner(System.in); // Tool to read user input
+        Scanner scn = new Scanner(System.in); // // Creating the scanner tool to read user input
 
         System.out.println("Enter your name: "); // Prompt User for name
         String name = scn.nextLine().trim(); // Read the string written by the user, trim white spaces
