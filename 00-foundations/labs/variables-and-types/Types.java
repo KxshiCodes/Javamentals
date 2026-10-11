@@ -33,26 +33,26 @@ public class Types {
 }
 
 // Things I've discovered
-/* 
-- Primitive types store simple values: int, long, float, double, char, and boolean.
-- Reference types refer to objects (e.g. String, Date, arrays, and custom classes).
-- Integer.valueOf converts a string to an integer.
-- Double.valueOf converts a string to a double.
-- Boolean.valueOf converts a string to a boolean.
-- I can assign an integer to a variable of the double type, since Java knows (Implicit casting) how to convert an integer to a double during assignment.
+/**  
+ * Primitive types store simple values: int, long, float, double, char, and boolean.
+ * Reference types refer to objects (e.g. String, Date, arrays, and custom classes).
+ * Integer.valueOf converts a string to an integer.
+ * Double.valueOf converts a string to a double.
+ * Boolean.valueOf converts a string to a boolean.
+ * I can assign an integer to a variable of the double type, since Java knows (Implicit casting) how to convert an integer to a double during assignment.
 */
 
 // Things I got stuck on
-/* 
-- The concept or difference between Class, Objects and instances:
-- An object is a thing created from a class.
-- An instance is a specific object created from a class.
-- A class is like a blueprint, and an object/instance is something built from that blueprint.
+/**  
+ * The concept or difference between Class, Objects and instances:
+ * An object is a thing created from a class.
+ * An instance is a specific object created from a class.
+ * A class is like a blueprint, and an object/instance is something built from that blueprint.
 */
 
 // Things I can now do
-/*
-- Declare variables using different primitive types.
-- Store whole numbers, decimal numbers, characters, and boolean values.
-- Distinguish between primitive types and reference types.
+/** 
+ * Declare variables using different primitive types.
+ * Store whole numbers, decimal numbers, characters, and boolean values.
+ * Distinguish between primitive types and reference types.
 */

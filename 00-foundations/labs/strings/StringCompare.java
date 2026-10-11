@@ -19,14 +19,14 @@ public class Password {
 }
 
 // Things I've discovered
-/* 
-- .equals command is used to compare strings
-- I can't compare the equality of strings the same way i would compare Ints, integers, floating point numbers, and boolean values using "=="
+/**
+ * .equals command is used to compare strings
+ * I can't compare the equality of strings the same way i would compare Ints, integers, floating point numbers, and boolean values using "=="
 */
 
 // Things I got stuck on
 
 // Things I can now do
-/* 
-- Compare strings with .equals command
+/**
+ * Compare strings with .equals command
 */

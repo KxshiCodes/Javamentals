@@ -19,13 +19,14 @@ public class Remainder {
 }
 
 // Things I've discovered
-/* 
-- Muddulo operator is rarely used but is handy to check the divisibilty of a number
+/** 
+ * Muddulo operator is rarely used but is handy to check the divisibilty of a number
 */
 
 // Things I got stuck on
+/** */
 
 // Things I can now do
-/* 
-- Use Mudulo to find the remainder of numbers and also find even or odd numbers
+/**
+ * Use Mudulo to find the remainder of numbers and also find even or odd numbers
 */
