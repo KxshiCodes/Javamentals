@@ -29,16 +29,16 @@ public class GradesAndPoints {
 }
 
 // Things I've discovered
-/* 
-- else if is used when multiple conditions exist.
-- else runs when none of the previous conditions are true.
+/** 
+ * else if is used when multiple conditions exist.
+ * else runs when none of the previous conditions are true.
 */
 
 // Things I got stuck on
 
 
 // Things I can now do
-/* 
-- Use else if for additional conditions.
-- Combine conditions with comparison operators.
+/**
+ * Use else if for additional conditions.
+ * Combine conditions with comparison operators.
 */

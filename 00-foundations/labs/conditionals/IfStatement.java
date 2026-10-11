@@ -18,19 +18,19 @@ public class IfStatement {
 }
 
 // Things I've discovered
-/* 
-- An if statement runs code when a condition is true.
-- else runs when none of the previous conditions are true.
-- Conditions use comparison operators such as >, <, ==, <=, => and !=.
-- Curly braces {} define the block of code belonging to a condition.
+/**
+ * An if statement runs code when a condition is true.
+ * else runs when none of the previous conditions are true.
+ * Conditions use comparison operators such as >, <, ==, <=, => and !=.
+ * Curly braces {} define the block of code belonging to a condition.
 */
 
 // Things I got stuck on
 
 
 // Things I can now do
-/*
-- Use if statements to make decisions.
-- Use else as a final fallback.
-- Combine conditions with comparison operators.
+/**
+ * Use if statements to make decisions.
+ * Use else as a final fallback.
+ * Combine conditions with comparison operators.
 */

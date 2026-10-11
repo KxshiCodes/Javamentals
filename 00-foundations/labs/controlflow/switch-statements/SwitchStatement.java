@@ -36,18 +36,22 @@ public class SwitchStatement {
 }
 
 // Things I've discovered
-// - A switch statement can be used to choose between multiple cases.
-// - Each case checks for a specific value.
-// - break stops the switch after a matching case is found.
-// - default runs when none of the cases match.
-// - A switch can be used with values such as String and int.
-// - A simple switch can sometimes be clearer than multiple if-else statements.
+/**
+ * A switch statement can be used to choose between multiple cases.
+ * Each case checks for a specific value.
+ * break stops the switch after a matching case is found.
+ * default runs when none of the cases match.
+ * A switch can be used with values such as String and int.
+ * A simple switch can sometimes be clearer than multiple if-else statements.
+*/
 
 // Things I got stuck on
-// -
+/** */
 
 // Things I can now do
-// - Create a switch statement.
-// - Create cases for different values.
-// - Use break to stop a case.
-// - Use default as a fallback.
+/**
+ * Create a switch statement.
+ * Create cases for different values.
+ * Use break to stop a case.
+ * Use default as a fallback.
+*/

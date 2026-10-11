@@ -18,15 +18,21 @@ public class ForEachLoop {
 }
 
 // Things I've discovered
-// - A for-each loop is useful when I want to go through every item in an array.
-// - I don't need to manage an index with a for-each loop.
-// - A regular for loop gives me more control over the index and direction.
-// - A for-each loop moves forward through the array.
+/**
+ * A for-each loop is useful when I want to go through every item in an array.
+ * I don't need to manage an index with a for-each loop.
+ * A regular for loop gives me more control over the index and direction.
+ * A for-each loop moves forward through the array.
+*/
 
 // Things I got stuck on
-// - A regular for loop starts at index 0, not fruits.length.
+/**
+ * A regular for loop starts at index 0, not fruits.length.
+*/
 
 // Things I can now do
-// - Iterate through an array using a regular for loop.
-// - Iterate through an array using a for-each loop.
-// - Use a for-each loop when I don't need the index.
+/**
+ * Iterate through an array using a regular for loop.
+ * Iterate through an array using a for-each loop.
+ * Use a for-each loop when I don't need the index.
+*/

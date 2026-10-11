@@ -18,18 +18,18 @@ public class SquareRoot {
 }
 
 // Things I've discovered
-/*
-- 'Math.sqrt()' squareroots the sum 
-- 'Math.round()' rounds it to the nearest int
+/**
+ * 'Math.sqrt()' squareroots the sum 
+ * 'Math.round()' rounds it to the nearest int
 */ 
 
 // Things I got stuck on
-/* 
-- My original code was working but it kept outputing in decimal form
+/** 
+ * My original code was working but it kept outputing in decimal form
 */
 
 // Things I can now do
-/*
-- Calculate the squared or squaredroot of sum
-- Round the results to the nearest int
+/** 
+ * Calculate the squared or squaredroot of sum
+ * Round the results to the nearest int
 */

@@ -27,7 +27,9 @@ public class OnlyPositives {
 
 // Things I've discovered
 /**
- * While Loops are used when I want to repeat something as long as the condition is true.
+ * Loops are useful when I know how many times I want to repeat something.
+ * Use a counter to control how many times a loop runs.
+ * While loop is useful when I don't know exactly how many times the loop will run.
  * continue = skip the rest of this iteration and start the next one.
  * break = stop the loop completely.
  */
@@ -38,6 +40,8 @@ public class OnlyPositives {
 
 // Things I can now do
 /**
- * Create a while loop
- * Use the 'break' and 'continue' commands
+ * Create a while loop.
+ * Control a loop using a counter.
+ * Use the 'break' and 'continue' commands.
+ * Choose a loop based on what I'm trying to accomplish.
 */

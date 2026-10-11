@@ -16,7 +16,7 @@ public class HelloWorld {
 
 // Things I can now do
 /**
-// - Create a basic Java class.
-// - Create a main method.
-// - Print text to the console.
+ * Create a basic Java class.
+ * Create a main method.
+ * Print text to the console.
 */ 
