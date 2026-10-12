@@ -1,4 +1,4 @@
-public class Loops {
+public class ForLoops {
     public static void main(String[] args) {
 
         // FOR LOOP
