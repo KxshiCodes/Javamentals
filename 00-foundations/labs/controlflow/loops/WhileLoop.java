@@ -29,7 +29,7 @@ public class OnlyPositives {
 /**
  * Loops are useful when I know how many times I want to repeat something.
  * Use a counter to control how many times a loop runs.
- * While loop is useful when I don't know exactly how many times the loop will run.
+ * While loop is useful when a program has to run until the user enters a certain input.
  * continue = skip the rest of this iteration and start the next one.
  * break = stop the loop completely.
  */
