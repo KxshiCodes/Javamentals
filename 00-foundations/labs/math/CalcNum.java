@@ -41,6 +41,6 @@ public class CalcNum{
 
 // Things I can now do
 /**
- *  Add, subtract, multiply, and divide values.
+ * Add, subtract, multiply, and divide values.
  * Find the remainder using %.
 */
