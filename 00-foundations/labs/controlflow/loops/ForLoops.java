@@ -1,10 +1,19 @@
-public class ForLoops {
-    public static void main(String[] args) {
+import java.util.Scanner;
 
-        // FOR LOOP
-        for (int i = 1; i <= 5; i++) {
+public class ForLoops {
+
+    public static void main(String[] args) {
+        Scanner scn = new Scanner(System.in);
+
+        int number = Integer.valueOf(scn.nextLine()); // Prompt User for input
+
+        // Functionality to be executed
+       // for (*introducing a variable*; *condition*; *increasing the counter*)
+        for (int i = 0; i <= number; i++) // Counts from start through to end interval of numbers 
+        {
             System.out.println("Hello World " + i);
         }
+        scn.close();
     }
 }
 
