@@ -1,4 +1,4 @@
-import java.util.Scanner; // Making the scanner available in the program
+import java.util.Scanner; // Import reader package
 
 public class UserInput {
 
@@ -17,7 +17,7 @@ public class UserInput {
         Double height = scn.nextDouble(); // Read height input in double
         System.out.println("You are " + height + " meters tall.");     
 
-        scn.close(); // Close the scanner to prevent resource leaks 
+        scn.close(); // Close scanner to prevent resource leaks 
 
     }
 }
