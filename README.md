@@ -1,6 +1,8 @@
 # Javamentals
 
-Javamentals is a curated record of my growth programming in Java, from understanding core programming concepts to building reliable, maintainable software. I learn by studying concepts, implementing ideas, experimenting with different approaches, and applying what I learn to practical projects. I'm focused on understanding how software works, writing better code, and developing sound engineering judgment.
+Javamentals is a curated record of my growth programming in Java, from understanding core programming concepts to building reliable, maintainable software. 
+
+I learn by studying concepts, implementing ideas, experimenting with different approaches, and applying what I learn to practical projects. I'm focused on understanding how software works, writing better code, and developing sound engineering judgment.
 
 ## Learning Approach
 
