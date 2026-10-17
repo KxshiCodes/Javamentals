@@ -19,14 +19,3 @@ public class Factorial {
     }
 }
 
-// Things I've discovered
-/**
- * Factorials are used in 'probability calculus' when examining different possible orders of a set.
- * It's also to calculate combinations.
-*/ 
-
-// Things I got stuck on
-/** */
-
-// Things I can now do
-/** */

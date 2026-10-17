@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalcNum{
+public class Calculator{
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
 
@@ -25,22 +25,3 @@ public class CalcNum{
         scn.close();
     }
 }
-
-// Things I've discovered
-/**
- * Arithmetic expressions are used to perform calculations.
- * + adds two values.
- * - subtracts one value from another.
- * * multiplies two values.
- * / divides one value by another.
- * % gives me the remainder after division.
-*/ 
-
-// Things I got stuck on
-/** */
-
-// Things I can now do
-/**
- * Add, subtract, multiply, and divide values.
- * Find the remainder using %.
-*/

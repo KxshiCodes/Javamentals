@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LoopStructure {
+public class NumberStatistics {
 
     public static void main(String[] args) {
         
@@ -47,24 +47,3 @@ public class LoopStructure {
         scn.close();
     }
 }
-
-// Things I've discovered
-/** 
- * Breaking a big program into smaller parts makes it easier to solve.
- * I need to figure out the types of parts the program needs to function then implement them
- * one part at a time
- * Test the program after adding each part
-*/
-
-// Things I got stuck on
-/**
- * knowing what I want to implement then losing my train of thought becuase i tried to complete the full project all at once
- * 
-
-*/
-
-// Things I can now do
-/**
- * Break the problem into smaller parts to complete roughly 85% of the code and then figure out the rest.
-
-*/
