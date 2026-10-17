@@ -1,56 +1,33 @@
 # Javamentals
 
-This repository documents my journey from learning the fundamentals of Java to designing, building, and understanding complete software systems.
+Javamentals is a curated record of my growth programming in Java, from understanding core programming concepts to building reliable, maintainable software. I learn by studying concepts, implementing ideas, experimenting with different approaches, and applying what I learn to practical projects. I'm focused on understanding how software works, writing better code, and developing sound engineering judgment.
 
-Rather than simply collecting tutorials or rewriting documentation, I learn through a cycle of: 
+## Learning Approach
 
-> **Understand → Implement → Experiment → Build → Reflect**
+My learning process follows a simple cycle:
 
-The goal is to develop strong computer science fundamentals, write clean and maintainable code, and build the practical skills needed to solve real-world software problems.
+**Understand → Implement → Experiment → Build → Reflect**
 
+- **Understand:** Develop a clear mental model of the concept.
+- **Implement:** Translate that understanding into working code.
+- **Experiment:** Explore edge cases, limitations, and alternative approaches.
+- **Build:** Apply the knowledge to practical problems.
+- **Reflect:** Record important lessons and identify areas for improvement.
 
-## 🧠 How I Learn
+## Current Focus
 
-Each major topic is approached from multiple angles.
+My current priority is strengthening my Java fundamentals and developing good programming habits. As my skills grow, I will explore object-oriented design, data structures and algorithms, testing, databases, concurrency, and backend development with Spring Boot.
 
-1. **Understand:** Learn the underlying concept and build a mental model.
-2. **Implement:** Write the concept from scratch where appropriate.
-3. **Experiment:** Build small programs to explore behavior, edge cases, and performance.
-4. **Build:** Apply what I've learned in practical projects.
-5. **Reflect:** Document lessons learned, challenges encountered, and areas for improvement.
+## Selected Work
 
-The focus is not on copying tutorials or memorizing syntax. It is on understanding how things work, learning through implementation, and developing the ability to explain the decisions behind my code.
+This repository contains selected implementations, experiments, and projects that demonstrate my learning and technical development. Each piece of work should have a purpose: to explore a concept, solve a problem, or improve my understanding of software engineering.
 
-## 🗺️ Roadmap
+## Progress
 
-| Stage | Focus | Status |
-|------:|-------|:------:|
-| 00 | [Foundations](00-foundations) | 🔄 |
-| 01 | Object-Oriented Programming | ⬜ |
-| 02 | Data Structures | ⬜ |
-| 03 | Algorithms | ⬜ |
-| 04 | Computer Systems | ⬜ |
-| 05 | Networking | ⬜ |
-| 06 | Databases | ⬜ |
-| 07 | Spring Boot | ⬜ |
-| 08 | Web Development | ⬜ |
-| 09 | Full Stack Development | ⬜ |
-| 10 | Personal Project | ⬜ |
+I track meaningful milestones, lessons learned, and next steps in [LOG.md](LOG.md).
 
-Each stage contains hands-on exercises, experiments, implementations, or projects appropriate to the topic.
+My progress is measured by what I can understand, implement, test, explain, and improve.
 
-## Technologies
-- **Languages:** Java · SQL · HTML · CSS · JavaScript
-- **Backend:** Spring · Spring Boot · REST APIs
-- **Database:** PostgreSQL
-- **Tools:** Git · GitHub · Maven · Docker · JUnit · Testing, debugging, and performance analysis · Software architecture and technical documentation
+## Goal
 
-## 📈 Progress Tracking
-
-Weekly progress and reflections are documented in [weekly-log/](weekly-log).
-
-## 🎯 Goal
-
-The goal isn't simply to finish a list of technologies or complete a collection of projects.
-
-It's to become capable of taking a problem, understanding its requirements, designing an appropriate solution, implementing it, testing it, and explaining the decisions behind it.
+To become a capable Java software developer who can take a problem from requirements to a well designed, tested, and maintainable solution and explain the reasoning behind the decisions made along the way.
