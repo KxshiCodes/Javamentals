@@ -2,7 +2,9 @@
 
 Javamentals is a curated record of my growth programming in Java, from understanding core programming concepts to building reliable, maintainable software. 
 
-I learn by studying concepts, implementing ideas, experimenting with different approaches, and applying what I learn to practical projects. I'm focused on understanding how software works, writing better code, and developing sound engineering judgment.
+I learn by studying concepts, implementing ideas, experimenting with different approaches, and applying what I learn to practical projects. 
+
+I'm focused on understanding how software works, writing better code, and developing sound engineering judgment.
 
 ## Learning Approach
 
@@ -18,7 +20,9 @@ My learning process follows a simple cycle:
 
 ## Current Focus
 
-My current priority is strengthening my Java fundamentals and developing good programming habits. As my skills grow, I will explore object-oriented design, data structures and algorithms, testing, databases, concurrency, and backend development with Spring Boot.
+My current priority is strengthening my Java fundamentals and developing good programming habits. 
+
+As my skills grow, I will explore object-oriented design, data structures and algorithms, testing, databases, concurrency, and backend development with Spring Boot.
 
 ## Selected Work
 
