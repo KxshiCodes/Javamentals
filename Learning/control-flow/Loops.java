@@ -3,13 +3,17 @@ import java.util.Scanner;
 public class Loops {
 
     public static void main(String[] args) {
-        try (Scanner scn = new Scanner(System.in)) {
+            Scanner scn = new Scanner(System.in); 
+            
+            // Method call
             countToNumber(scn);
             printFruits();
             calculateSquares(scn);
-        }
-    }
 
+            scn.close();
+        }
+
+    // Create countToNumber Method
     private static void countToNumber(Scanner scn) {
         System.out.print("Enter a number: ");
         int number = Integer.parseInt(scn.nextLine());
@@ -19,6 +23,7 @@ public class Loops {
         }
     }
 
+    // Create printFruits Method
     private static void printFruits() {
         String[] fruits = {"Apple", "Mango", "Orange"};
 
@@ -33,6 +38,7 @@ public class Loops {
         }
     }
 
+    // Create calculateSquare Method
     private static void calculateSquares(Scanner scn) {
         while (true) {
             System.out.print("Give a number (0 to quit): ");
