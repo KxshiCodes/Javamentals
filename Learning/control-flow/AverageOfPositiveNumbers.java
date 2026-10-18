@@ -10,7 +10,8 @@ public class AverageOfPositiveNumbers {
         int numSum = 0;
 
         while (true){
-            int posNumbers = Integer.valueOf(scn.nextLine()); // Prompt User for input and Hold User input
+            // Prompt User for input and Hold User input
+            int posNumbers = Integer.valueOf(scn.nextLine());
 
             if (posNumbers == 0){
                 break;
@@ -25,7 +26,8 @@ public class AverageOfPositiveNumbers {
             
         // Input validation
         if (numCount > 0){
-            double average = (double) numSum / numCount; // Average calculation
+            // Average calculation
+            double average = (double) numSum / numCount; 
             System.out.println(average);
         } else {
             System.out.println("Cannot calculate the average");
