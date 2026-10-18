@@ -4,13 +4,14 @@ public class Conditionals {
 
     public static void main(String[] args) {
         try (Scanner scn = new Scanner(System.in)) {
-            checkAge(scn);
-            calculateGrade(scn);
+            checkAge(scn); // checkAge Method call
+            calculateGrade(scn); // calculateGrade Method call
         }
-
-        demonstrateSwitch();
+        // Switch Method Call
+        demonstrateSwitch(); // Doesn't take or read input so placed out of Scanner
     }
 
+    // Create checkAge Method
     private static void checkAge(Scanner scn) {
         System.out.print("How old are you? ");
         int age = scn.nextInt();
@@ -24,6 +25,7 @@ public class Conditionals {
         }
     }
 
+    // Create CalculateGrade Method
     private static void calculateGrade(Scanner scn) {
         System.out.print("Give points [0-100]: ");
         int points = scn.nextInt();
@@ -45,6 +47,7 @@ public class Conditionals {
         }
     }
 
+    // Create demonstrateSwitch Method
     private static void demonstrateSwitch() {
         String role = "admin";
 
