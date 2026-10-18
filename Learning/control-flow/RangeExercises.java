@@ -3,12 +3,16 @@ import java.util.Scanner;
 public class RangeExercises {
 
     public static void main(String[] args) {
-        try (Scanner scn = new Scanner(System.in)) {
+            Scanner scn = new Scanner(System.in);
+
+            // Method call
             printRange(scn);
             sumRange(scn);
-        }
-    }
 
+            scn.close();
+        }
+    
+    // Create printRange Method
     private static void printRange(Scanner scn) {
         System.out.print("Where to? ");
         int end = Integer.parseInt(scn.nextLine());
@@ -21,6 +25,7 @@ public class RangeExercises {
         }
     }
 
+    // Create sumRange Method
     private static void sumRange(Scanner scn) {
         System.out.print("First number? ");
         int start = Integer.parseInt(scn.nextLine());
