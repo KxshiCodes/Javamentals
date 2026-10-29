@@ -21,7 +21,7 @@ I can write and execute basic Java programs, display text, read user input, stor
 
 ### What I've learned
 
-I can recognise recurring problems and reuse solution patterns, write programs that repeat instructions using loops, and organise code into methods. I understand how methods receive information through parameters, return results, and call one another during program execution. These skills help me build more structured, efficient, and reusable programs.
+I can recognise recurring problems and reuse solution patterns, write programs that repeat instructions using loops, and organise code into methods. I understand how the call stack works, methods receive information through parameters, return results, and call one another during program execution. These skills help me build more structured, efficient, and reusable programs.
 
 ### What I'm figuring out
 
