@@ -1,27 +1,26 @@
 import java.util.Scanner;
 
-public class Calculator{
-    public static void main(String[] args){
+public class Calculator {
+
+    public static void main(String[] args) {
+
         Scanner scn = new Scanner(System.in);
 
-        // Prompt & Hold input
-        System.out.println("Give the first number: ");
-        int fNum = Integer.valueOf(scn.nextLine());
+        System.out.print("First number: ");
+        int a = scn.nextInt();
 
-        System.out.println("Give the second number: ");
-        int sNum = Integer.valueOf(scn.nextLine());
+        System.out.print("Second number: ");
+        int b = scn.nextInt();
 
-        // Calculations
-        int result1 = fNum + sNum; 
-        int result2 = fNum - sNum;
-        int result3 = fNum * sNum;
-        double result4 =  (double) fNum / sNum;
+        System.out.println(a + " + " + b + " = " + (a + b));
+        System.out.println(a + " - " + b + " = " + (a - b));
+        System.out.println(a + " * " + b + " = " + (a * b));
 
-        // Print with Concatenation 
-        System.out.println(fNum + " + " + sNum + " = " + result1);
-        System.out.println(fNum + " - " + sNum + " = " + result2);
-        System.out.println(fNum + " * " + sNum + " = " + result3);
-        System.out.println(fNum + " / " + sNum + " = " + result4);
+        if (b != 0) {
+            System.out.println(a + " / " + b + " = " + (double) a / b);
+        } else {
+            System.out.println("Cannot divide by zero.");
+        }
 
         scn.close();
     }
