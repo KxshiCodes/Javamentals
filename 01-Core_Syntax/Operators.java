@@ -1,33 +1,31 @@
-import java.util.Scanner;
 
 public class Operators {
 
     public static void main(String[] args) {
-        Scanner scn = new Scanner(System.in);
 
-        System.out.print("How old are you? "); // Prompt for age
-        int age = scn.nextInt(); // Read and hold age
+        int a = 10;
+        int b = 3;
 
-        // if Statement
-        // age age is less, equals to 0 and age less, equals to 120
-        if (age >= 0 && age <= 120) {
-            System.out.println("Valid age."); 
-        } else {
-            System.out.println("Impossible!");  
-        }
+        // Arithmetic operators
+        System.out.println(a + b); // Addition
+        System.out.println(a - b); // Subtraction
+        System.out.println(a * b); // Multiplication
+        System.out.println(a / b); // Division (whole number result)
+        System.out.println(a % b); // Remainder
 
-        // Find Even and Odd numbers
-        System.out.print("Give a number: ");
-        int number = scn.nextInt();
+        // Comparison operators
+        System.out.println(a > b);  // Greater than
+        System.out.println(a < b);  // Less than
+        System.out.println(a == b); // Equal to
+        System.out.println(a != b); // Not equal to
+        System.out.println(a >= b); // Greater than or equal to
+        System.out.println(a <= b); // Less than or equal to
 
-        // Calculate for finding Odd and Even numbers
-        if (number % 2 == 0) {
-            System.out.println("Number " + number + " is even.");
-        } else {
-            System.out.println("Number " + number + " is odd.");
-        }
-
-        scn.close();
+        // Logical operators
+        System.out.println(a > 0 && b > 0); // AND
+        System.out.println(a > 0 || b < 0); // OR
+        System.out.println(!(a > 0));       // NOT
     }
 }
+
 
