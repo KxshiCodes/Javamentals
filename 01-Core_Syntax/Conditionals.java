@@ -3,37 +3,39 @@ import java.util.Scanner;
 public class Conditionals {
 
     public static void main(String[] args) {
-        try (Scanner scn = new Scanner(System.in)) {
-            checkAge(scn); // checkAge Method call
-            calculateGrade(scn); // calculateGrade Method call
-        }
-        // Switch Method Call
-        demonstrateSwitch(); // Doesn't take or read input so placed out of Scanner
-    }
 
-    // Create checkAge Method
-    private static void checkAge(Scanner scn) {
-        System.out.print("How old are you? ");
+        Scanner scn = new Scanner(System.in);
+
+        // if / else if / else
+        System.out.print("Enter your age: ");
         int age = scn.nextInt();
 
-        if (age < 0) {
+        if (age < 0 || age > 120) {
             System.out.println("Invalid age.");
         } else if (age < 18) {
             System.out.println("You are not an adult.");
         } else {
             System.out.println("You are an adult.");
         }
-    }
 
-    // Create CalculateGrade Method
-    private static void calculateGrade(Scanner scn) {
-        System.out.print("Give points [0-100]: ");
+        // Multiple conditions
+        System.out.print("Enter a number: ");
+        int number = scn.nextInt();
+
+        if (number % 2 == 0) {
+            System.out.println("Even");
+        } else {
+            System.out.println("Odd");
+        }
+
+        // Grading with else if
+        System.out.print("Enter points [0-100]: ");
         int points = scn.nextInt();
 
         if (points < 0 || points > 100) {
-            System.out.println("Invalid points!");
+            System.out.println("Invalid points.");
         } else if (points < 50) {
-            System.out.println("Grade: failed");
+            System.out.println("Failed");
         } else if (points < 60) {
             System.out.println("Grade: 1");
         } else if (points < 70) {
@@ -45,10 +47,8 @@ public class Conditionals {
         } else {
             System.out.println("Grade: 5");
         }
-    }
 
-    // Create demonstrateSwitch Method
-    private static void demonstrateSwitch() {
+        // switch with String
         String role = "admin";
 
         switch (role) {
@@ -62,17 +62,6 @@ public class Conditionals {
                 System.out.println("You are a guest.");
         }
 
-        int roleNumber = 1;
-
-        switch (roleNumber) {
-            case 1:
-                System.out.println("You are an admin.");
-                break;
-            case 2:
-                System.out.println("You are a moderator.");
-                break;
-            default:
-                System.out.println("You are a guest.");
-        }
+        scn.close();
     }
 }
