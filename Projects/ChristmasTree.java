@@ -10,7 +10,6 @@ public class ChristmasTree {
     }
 
     public static void printSpaces(int number) {
-        // part 1 of the exercise
         for (int spaces = 0; spaces < number; spaces++){
             System.out.print(" ");
         }
