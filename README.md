@@ -24,10 +24,6 @@ My current priority is strengthening my Java fundamentals and developing good pr
 
 As my skills grow, I will explore object-oriented design, data structures and algorithms, testing, databases, concurrency, and backend development with Spring Boot.
 
-## Selected Work
-
-This repository contains selected implementations, experiments, and projects that demonstrate my learning and technical development. Each piece of work should have a purpose: to explore a concept, solve a problem, or improve my understanding of software engineering.
-
 ## Progress
 
 I track meaningful milestones, lessons learned, and next steps in [LOG.md](LOG.md).
