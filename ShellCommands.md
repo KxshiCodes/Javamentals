@@ -5,7 +5,7 @@ A brief reference for commonly used Linux commands.
 ## FILES & NAVIGATION
 
 ```bash
-ls                  # Lists files and directories.
+ls                  # 03-ArraysandCollections.Lists files and directories.
 ls -l               # Displays a detailed listing.
 ls -la              # Displays a detailed listing, including hidden files.
 cd dir              # Changes to directory `dir`.
@@ -48,7 +48,7 @@ ssh -D PORT user@host   # Creates a local SOCKS proxy through SSH.
 
 ```bash
 ps                  # Displays processes associated with the current terminal.
-ps aux              # Lists running processes with detailed information.
+ps aux              # 03-ArraysandCollections.Lists running processes with detailed information.
 kill PID            # Requests termination of a process.
 killall process     # Sends a signal to processes matching a name.
 ```
@@ -74,7 +74,7 @@ uname -a             # Displays system and kernel information.
 ```bash
 tar cf file.tar files        # Creates an uncompressed archive.
 tar xf file.tar              # Extracts an archive.
-tar tf file.tar              # Lists archive contents.
+tar tf file.tar              # 03-ArraysandCollections.Lists archive contents.
 tar czf file.tar.gz files    # Creates a gzip-compressed archive.
 ```
 

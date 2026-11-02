@@ -1,0 +1,39 @@
+# IntelliJ IDEA
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+
+# Java compiled output
+/out/
+*.class
+
+### Kotlin ###
+.kotlin/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,3 +1,5 @@
+package Projects;
+
 public class ChristmasTree {
 
     public static void printStars(int number) {
