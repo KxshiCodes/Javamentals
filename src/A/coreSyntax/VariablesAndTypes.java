@@ -1,4 +1,7 @@
 package A.coreSyntax;
+
+import java.util.Arrays;
+
 public class VariablesAndTypes {
 
     public static void main(String[] args) {
@@ -21,7 +24,7 @@ public class VariablesAndTypes {
         System.out.println("Boolean: " + isJavaFun);
 
         System.out.println("String: " + greeting);
-        System.out.println("Array: " + numbers);
+        System.out.println("Array: " + Arrays.toString(numbers));
     }
 }
 
