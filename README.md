@@ -26,7 +26,7 @@ As my skills grow, I will explore object-oriented design, data structures and al
 
 ## Progress
 
-I track meaningful milestones, lessons learned, and next steps in [WeeklyLog.md](WeeklyLog.md).
+I track meaningful milestones, lessons learned, and next steps in [WeeklyLog.md](WEEKLYLOGS.md).
 
 My progress is measured by what I can understand, implement, test, explain, and improve.
 
