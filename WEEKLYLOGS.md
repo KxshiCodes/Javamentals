@@ -21,11 +21,11 @@ I can write and execute basic Java programs, display text, read user input, stor
 
 ### What I've learned
 
-I can recognise recurring problems and reuse solution patterns, write programs that repeat instructions using loops, and organise code into methods. I understand how the call stack works, methods receive information through parameters, return results, and call one another during program execution. These skills help me build more structured, efficient, and reusable programs.
+I can recognise recurring problems and reuse solution patterns, write programs that repeat instructions using loops, and organise code into methods (for reusability). I understand how the call stack works, methods receive information through parameters, return results, and call one another during program execution. These skills help me build more structured, efficient, and reusable programs.
 
 ### What I'm figuring out
 
-I'm still struggling with making basic programming concepts stick and developing a structured way of thinking through my problems so I'm going to go over what I've learned so far connect more dots and solidify my mental map before moving onto learning collections.C.collections.Lists and collections.C.collections.Arrays.
+I'm still struggling with making basic programming concepts stick and developing a structured way of thinking through my problems so I'm going to go over what I've learned so far connect more dots and solidify my mental map before moving onto learning Arrays.
 
 ---
 
