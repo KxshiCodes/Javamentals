@@ -1,3 +1,4 @@
+package A.coreSyntax.mathematics;
 import java.util.Scanner;
 
 public class Factorial {

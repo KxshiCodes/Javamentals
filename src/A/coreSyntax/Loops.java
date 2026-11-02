@@ -1,3 +1,4 @@
+package A.coreSyntax;
 import java.util.Scanner;
 
 public class Loops {

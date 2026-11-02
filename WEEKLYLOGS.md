@@ -25,7 +25,7 @@ I can recognise recurring problems and reuse solution patterns, write programs t
 
 ### What I'm figuring out
 
-I'm still struggling with making basic programming concepts stick and developing a structured way of thinking through my problems so I'm going to go over what I've learned so far connect more dots and solidify my mental map before moving onto learning 03-ArraysandCollections.Lists and 03-ArraysandCollections.Arrays.
+I'm still struggling with making basic programming concepts stick and developing a structured way of thinking through my problems so I'm going to go over what I've learned so far connect more dots and solidify my mental map before moving onto learning collections.C.collections.Lists and collections.C.collections.Arrays.
 
 ---
 

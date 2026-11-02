@@ -1,3 +1,4 @@
+package B.methods;
 public class PrintingMethods {
 
     public static void main(String[] args) {
