@@ -1,35 +1,28 @@
 # Javamentals
 
-Javamentals is a curated record of my growth programming in Java, from understanding core programming concepts to building reliable, maintainable software. 
+A personal workspace for learning and improving my Java programming skills through practice, experimentation and problem-solving.
 
-I learn by studying concepts, implementing ideas, experimenting with different approaches, and applying what I learn to practical projects. 
+This repository brings together exercises, implementations and notes as I work towards a better understanding of Java and software development.
 
-I'm focused on understanding how software works, writing better code, and developing sound engineering judgment.
+## ☕ Learning by Doing
 
-## Learning Approach
+My focus is on writing code, solving problems and understanding how things work rather than simply following tutorials or memorising concepts.
 
-My learning process follows a simple cycle:
+You'll find:
+- **Exercises:** Programming challenges and practical coding tasks.
+- **Implementations:** My own solutions, experiments and attempts at building things.
+- **Notes:** Concepts, explanations, mistakes and things I want to remember.
 
-**Understand → Implement → Experiment → Build → Reflect**
+## 🧠 My Approach
 
-- **Understand:** Develop a clear mental model of the concept.
-- **Implement:** Translate that understanding into working code.
-- **Experiment:** Explore edge cases, limitations, and alternative approaches.
-- **Build:** Apply the knowledge to practical problems.
-- **Reflect:** Record important lessons and identify areas for improvement.
+I learn by experimenting, making mistakes, debugging and understanding why something works.
 
-## Current Focus
+The goal isn't just to get code running, but to understand the decisions behind it and become more confident solving problems independently.
 
-My current priority is strengthening my Java fundamentals and developing good programming habits. 
+**Understand → Implement → Experiment → Reflect → Repeat**
 
-As my skills grow, I will explore object-oriented design, data structures and algorithms, testing, databases, concurrency, and backend development with Spring Boot.
+## 🎯 Goal
 
-## Progress
+Build a solid foundation in Java through consistent practice, gradually taking on more complex problems and developing better programming habits.
 
-I track meaningful milestones, lessons learned, and next steps in [WeeklyLog.md](WEEKLYLOGS.md).
-
-My progress is measured by what I can understand, implement, test, explain, and improve.
-
-## Goal
-
-To become a capable Java software developer who can take a problem from requirements to a well designed, tested, and maintainable solution and explain the reasoning behind the decisions made along the way.
+This repository is a work in progress. The code, notes and understanding will grow along the way.
