@@ -1,3 +1,5 @@
+[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md)
+
 # Javamentals
 
 A personal workspace for learning and improving my Java programming skills through practice, experimentation and problem-solving.
